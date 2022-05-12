@@ -99,10 +99,10 @@
 		9CEF9D0028239E5A0024F1CF /* UIBezierPath */ = {
 			isa = PBXGroup;
 			children = (
+				9CEF9D0728239E5A0024F1CF /* Main.storyboard */,
 				9CEF9D0128239E5A0024F1CF /* AppDelegate.swift */,
 				9CEF9D0328239E5A0024F1CF /* SceneDelegate.swift */,
 				9CEF9D0528239E5A0024F1CF /* ViewController.swift */,
-				9CEF9D0728239E5A0024F1CF /* Main.storyboard */,
 				9CEF9D0A28239E5C0024F1CF /* Assets.xcassets */,
 				9CEF9D0C28239E5C0024F1CF /* LaunchScreen.storyboard */,
 				9CEF9D0F28239E5C0024F1CF /* Info.plist */,
