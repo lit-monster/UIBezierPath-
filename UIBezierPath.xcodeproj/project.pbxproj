@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		038E264E28BB1131000204A4 /* TestDraw.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038E264D28BB1131000204A4 /* TestDraw.swift */; };
+		038E265028BB2092000204A4 /* UIColorHex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 038E264F28BB2092000204A4 /* UIColorHex.swift */; };
 		9CEF9D0228239E5A0024F1CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEF9D0128239E5A0024F1CF /* AppDelegate.swift */; };
 		9CEF9D0428239E5A0024F1CF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEF9D0328239E5A0024F1CF /* SceneDelegate.swift */; };
 		9CEF9D0628239E5A0024F1CF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEF9D0528239E5A0024F1CF /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		038E264D28BB1131000204A4 /* TestDraw.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDraw.swift; sourceTree = "<group>"; };
+		038E264F28BB2092000204A4 /* UIColorHex.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorHex.swift; sourceTree = "<group>"; };
 		9CEF9CFE28239E5A0024F1CF /* UIBezierPath.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIBezierPath.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CEF9D0128239E5A0024F1CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CEF9D0328239E5A0024F1CF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				9CEF9D0A28239E5C0024F1CF /* Assets.xcassets */,
 				9CEF9D0C28239E5C0024F1CF /* LaunchScreen.storyboard */,
 				9CEF9D0F28239E5C0024F1CF /* Info.plist */,
+				038E264D28BB1131000204A4 /* TestDraw.swift */,
+				038E264F28BB2092000204A4 /* UIColorHex.swift */,
 			);
 			path = UIBezierPath;
 			sourceTree = "<group>";
@@ -260,7 +266,9 @@
 			files = (
 				9CEF9D0628239E5A0024F1CF /* ViewController.swift in Sources */,
 				9CEF9D0228239E5A0024F1CF /* AppDelegate.swift in Sources */,
+				038E265028BB2092000204A4 /* UIColorHex.swift in Sources */,
 				9CEF9D0428239E5A0024F1CF /* SceneDelegate.swift in Sources */,
+				038E264E28BB1131000204A4 /* TestDraw.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
